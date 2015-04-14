@@ -1,6 +1,7 @@
 require 'httparty'
 require 'ostruct'
 require 'forwardable'
+require 'json'
 
 module Pipedrive
 
